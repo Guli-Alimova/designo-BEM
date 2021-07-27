@@ -9,6 +9,7 @@
         display: flex;
         padding-bottom:0;
         border-radius:15px;
+        
     }
     .desktop__photo{
         margin-bottom:0;
@@ -16,6 +17,7 @@
     }
     .desktop__info{
         padding:113px 0 113px 0;
+        width: 100%;
     }
     .project{
         margin-bottom:32px;

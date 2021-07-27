@@ -118,3 +118,13 @@
     right: 0;
     text-align: center;
 }
+.desktop:hover .desktop__info:hover{
+    background-color: #E7816B;
+    transition: 0.5s ease-in-out;
+}
+.desktop:hover  .desktop__title {
+    color: white;
+}
+.desktop:hover  .desktop__text {
+    color: white;
+}
