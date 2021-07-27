@@ -44,7 +44,7 @@
 
 }
 .desktop{
-    background-color: #FDF3F0;
+   
     padding-bottom:32px;
     margin-bottom:32px;
     border-radius:15px;
@@ -62,6 +62,11 @@
 .desktop__photo{
     margin-bottom:32px;
    
+   
+}
+.desktop__info{
+    background-color: #FDF3F0;
+    
 }
 .desktop__text{
     font-size: 16px;
@@ -79,6 +84,9 @@
 .project{
     position: relative;
     display: block;
+}
+.project__photo{
+    width: 100%;
 }
 
 .project__title{
