@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+.body{
+    font-family:'Jost', sans-serif;
+    margin:0;
+    
+}
+.container{
+   
+    max-width: 1110px;
+
+}
+.designo__title{
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: center;
+    color: white;
+    padding-bottom:24px;
+
+}
+.designo{
+    background-image: url(../img/Group\ 6\ \(2\).jpg);
+    padding:64px 0 64px;
+    background-size: cover;
+    border-radius:15px;
+   
+}
+.designo__text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: white;
+    padding:0 32px 0 32px;
+    
+    
+}
+.designs{
+    margin:160px 0 160px;
+
+}
+.desktop{
+    background-color: #FDF3F0;
+    padding-bottom:32px;
+    margin-bottom:32px;
+    border-radius:15px;
+   
+}
+.desktop__title{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 5px;
+    text-align: center;
+    color:#E7816B ;
+    padding-bottom:18px;
+}
+.desktop__photo{
+    margin-bottom:32px;
+   
+}
+.desktop__text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+    text-align: center;
+    color:#333136 ;
+    padding:0 32px 0 32px;
+
+}
+.projects{
+    margin: 160px 0 160px;
+}
+
+.project{
+    position: relative;
+    display: block;
+}
+
+.project__title{
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 2px;
+    text-align: center;
+    color:white;
+    padding-bottom:24px;
+    display: block;
+    font-size: 40px;
+
+}
+.project__btn{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    display:block;
+
+}
+.project__info{
+    position: absolute;
+    top:107px;
+    left:0;
+    right: 0;
+    text-align: center;
+}

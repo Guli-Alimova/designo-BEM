@@ -1,0 +1,9 @@
+@media(max-width:1199){
+    .desktop__photo{
+        width: 300px;
+    }
+    .desktop{
+        width: 300px;
+
+    }
+}
